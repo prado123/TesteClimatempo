@@ -1,0 +1,32 @@
+ul li {list-style: none;}
+.card {float: left;width: 31.3%; margin: 1%;padding: 10px;}
+h1 { display: block;width: 100%;color: #0080cd;padding: 25px 0px;}
+header, footer {background-color:#0080cd;}
+.animated {width:59%; }
+.clear_day {background-image:url(img/sunny.png); }
+.cloudly_day {background-image:url(img/partly_cloudy.png); }
+.rain {background-image:url(img/rain.png); }
+.cloud {background-image:url(img/cloudy.png); }
+.storm {background-image:url(img/rain.png); }
+.cloudly_night {background-image:url(img/sunny_s_cloudy.png);}
+.clear_day,
+.cloudly_day,
+.rain,
+.cloud,
+.storm,.cloudly_night{ display: block; width: 60px;height: 60px; float: left;}
+.cidade {font-size: 30px;}
+.temperatura {font-size: 40px;}
+#userdata .container {border: 1px solid #eee;padding: 20px 0px;    margin-bottom: 25px;}
+.card .clear_day, 
+.card .cloudly_day, 
+.card .rain, 
+.card .cloud, 
+.card .storm, 
+.card .cloudly_night {display: block; margin-bottom: 30px; margin-right: 20px;}
+.card ul {padding-left: 10px;}
+footer, footer a {color:#fff;}
+.footer-copyright {background-color:#fff;color:#0080cd;}
+
+
+
+
